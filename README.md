@@ -1,6 +1,4 @@
-Here is your updated `README.md` optimized specifically for deploying **Roam Stays** on **Render**, including exact service configuration details for both frontend/backend separation or a combined monolithic setup.
 
----
 
 # Roam Stays 🌍🏡
 
